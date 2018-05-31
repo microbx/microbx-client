@@ -1,7 +1,7 @@
 {
     "private": true,
-    "name": "microbx-website",
-    "description": "Microbx Website",
+    "name": "microbx-client",
+    "description": "Microbx Client",
     "version": "0.0.1",
     "scripts": {
         "start": "react-scripts start",
