@@ -3,6 +3,17 @@
     "name": "microbx-client",
     "description": "Microbx Client",
     "version": "0.0.1",
+    "keywords": [
+        "react",
+        "graphql",
+        "apollo",
+        "microbx",
+        "registry",
+        "microservices",
+        "babel",
+        "nodejs",
+        "node"
+    ],
     "scripts": {
         "start": "react-scripts start",
         "now-start": "serve --single ./build",
