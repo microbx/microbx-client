@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "microbx-website",
+    "description": "Microbx Website",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "react-scripts start",
+        "now-start": "serve --single ./build",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "dependencies": {
+        "react": "^16.4.0",
+        "react-dom": "^16.4.0",
+        "react-scripts": "1.1.4",
+        "serve": "^7.1.5"
+    }
+}
